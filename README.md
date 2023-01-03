@@ -16,8 +16,8 @@ End the program
 ## Program:
 ```
 #Program to find the solution for the given linear equations.
-#Developed by: G Dario 
-#RegisterNumber: 22008843
+#Developed by: sriram.s
+#RegisterNumber: 22009336
 import numpy as n
 a=n.array([[1,-3],[3,1]])
 b=n.array([0,10])
@@ -25,6 +25,8 @@ result=n.linalg.solve(a,b)
 print(result)
 ```
 ## Output:
+
+![output](./output.png.png)
 
 
 ## Result: 
