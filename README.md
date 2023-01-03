@@ -25,7 +25,8 @@ result=n.linalg.solve(a,b)
 print(result)
 ```
 ## Output:
-![output](./images/ex1-solutions.png)
+
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
